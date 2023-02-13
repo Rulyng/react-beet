@@ -1,0 +1,27 @@
+.about{
+    &__container{
+        padding: 28px 16px;
+        background-color: rgb(226, 221, 221);
+    }
+
+    &__title{
+        text-align: center;
+    }
+    &__row{
+        display: flex;
+        gap: 20px;
+    }
+&__content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    gap: 25px;
+}
+&__btn{
+    background-color: lightblue;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+}
