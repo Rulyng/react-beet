@@ -1,0 +1,19 @@
+.home__container{
+    background-color: rgba(210, 198, 198, 0.308);
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr 1fr;
+    padding: 10px;
+
+}
+
+.box-row{
+    display: flex;
+    
+}
+.main-sec div{
+    padding: 3px 0;
+}
+
+.nav-list li{
+    padding: 10px 0;
+}

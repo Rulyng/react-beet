@@ -1,0 +1,7 @@
+.header__container{
+background-color: brown;
+color: white;
+display: flex;
+justify-content: space-between;
+padding: 10px;
+}

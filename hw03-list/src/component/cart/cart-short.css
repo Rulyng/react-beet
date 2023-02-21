@@ -1,0 +1,18 @@
+.cart-item{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin: 7px;
+}
+
+.cart-text-pend{
+    font-size: 10px;
+}
+.main-part-cart{
+        display: flex;
+        align-items: center;
+        gap: 8px;
+}
+.cart-item-order{
+    justify-content: space-between;
+}
