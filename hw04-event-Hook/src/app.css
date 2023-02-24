@@ -1,0 +1,18 @@
+.wrap{
+    max-width: 1200px;
+    margin: 20px auto;
+    
+}
+
+section{
+    border: 2px dotted blue;
+    margin: 20px auto;
+    padding: 10px;
+    max-width: 500px;
+    background: linear-gradient(#e66465, #9198e5);;
+}
+
+.carts-users{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
